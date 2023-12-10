@@ -1,0 +1,190 @@
+@media(min-width:1241px){
+.contenr{
+    width: 100%;
+}    
+
+}
+
+
+@media(max-width:447px)
+{
+.head{width: 100%;
+    background-size: cover;
+}
+.head1{
+    flex-direction: column;
+    padding-left: 15px;
+    
+}
+.tt{
+    flex-direction: column;
+}
+.surato{
+    flex-direction: column;
+    width: 100%;
+ 
+}
+.kabud{
+    flex-direction: column;
+    width: 100%;
+}
+.right1{
+    flex-direction: column;
+}
+
+.s1,.s2,.s3{
+    width: 100%;
+    margin: auto;
+}
+.sec1{
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+}
+.left{
+    width: 100%;
+    margin: auto;
+}
+.ww{
+    padding-right: 0;
+    padding-top:0;
+}
+.ww h1{
+    font-size: 25px;
+
+}
+.ww p{
+    padding: 10px;
+}
+.p0{
+    padding: 0;
+}
+.right{
+    width: 100%;
+}
+.right img{
+    width: 100%;
+}
+.f1{width: 100%;
+    padding: 5px;
+
+}
+.f1 i{
+    font-size: 15px;
+}
+.f3 h1{
+    bottom: 10px;
+}
+.f3 h3, h5 {
+    letter-spacing: 0;
+}
+.contenr{width: 100%;
+
+}
+.kabud img{padding: 7px;}
+}
+.s1,.s2,.s3{
+
+
+    margin-top: 10px;
+}
+
+
+
+@media(min-width:447px) and (max-width:767px)
+{
+.head{width: 100%;
+    background-size: cover;
+}
+.head1{
+    flex-direction: column;
+    padding-left: 15px;
+    padding-right: 500px;
+    
+}
+.tt{
+    flex-direction: column;
+}
+.surato{
+    flex-direction: column;
+    width: 100%;
+ 
+}
+.kabud{
+    flex-direction: column;
+    width: 100%;
+}
+.right1{
+    flex-direction: column;
+}
+
+.s1,.s2,.s3{
+    width: 100%;
+    margin: auto;
+}
+.sec1{
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+}
+.left{
+    width: 100%;
+    margin: auto;
+}
+.ww{
+    padding-right: 0;
+    padding-top:0;
+}
+.ww h1{
+    font-size: 25px;
+
+}
+.ww p{
+    padding: 10px;
+}
+.p0{
+    padding: 0;
+}
+.right{
+    width: 100%;
+}
+.right img{
+    width: 100%;
+}
+.f1{width: 100%;
+    padding: 5px;
+
+}
+.f1 i{
+    font-size: 15px;
+}
+.f3 h1{
+    bottom: 10px;
+}
+.f3 h3, h5 {
+    letter-spacing: 0;
+}
+.contenr{width: 100%;
+    
+
+}
+.kabud img{padding: 7px;}
+}
+.s1,.s2,.s3{
+
+
+    margin-top: 10px;
+}
+@media (min-width:768px) and (max-width:1200px) {
+    .contenr{
+        width: 100%;
+    }
+    .head1{
+        padding-left: 60px;
+    }
+    .ww{
+        padding-right: 0;
+    }
+    
+    
+}
